@@ -1,3 +1,3 @@
-FROM  docker pull jenkinsxio/jenkinsx:0.0.0-SNAPSHOT-PR-76-3
+FROM jenkinsxio/jenkinsx:0.0.0-SNAPSHOT-PR-76-3
 
-MAINTAINER yanshanchen@hotmail.com
+MAINTAINER 624319544@qq.com
